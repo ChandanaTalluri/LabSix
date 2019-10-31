@@ -11,7 +11,7 @@ package com.mycompany.labsix;
  */
 public class MainMonth {
     public static void main(String[] args) {
-        int monthNumber = 13;
+        int monthNumber = 4;
         Month objMonth = new Month(monthNumber);
         String strMonthName = objMonth.getMonthName();
         System.out.println("Month Name is : "+strMonthName);

@@ -48,7 +48,6 @@ public class MainLandTrack {
                     strTrackEqual = "Lentgh and with of track are not equal";
                 }
                 area = trackLength*trackWidth;
-                
                 String strResult = "Area of the track "+ count + " is "+ area +" and "+ strTrackEqual;
                 arrLstArea.add(strResult);
                 count++;
